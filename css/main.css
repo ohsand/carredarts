@@ -96,6 +96,15 @@ h6,
     font-weight: 800;
 }
 
+h3 {
+    font-size: 36px !important;
+    margin: 0.67em 0;
+}
+
+.features-content h3 {
+    font-size: 30px !important;
+}
+
 .small,
 small {
     font-family: "Josefin Sans", sans-serif;
@@ -697,9 +706,9 @@ fieldset[disabled] .btn-default.active {
     padding-bottom: 0px;
 }
 
-.footer h1 {
+.footer h3 {
     color: #f9c56a;
-    font-size: 18px;
+    font-size: 18px !important;
     text-align: left;
     margin: 60px 0px 26px;
 }
