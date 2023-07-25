@@ -8,7 +8,7 @@ $(window).load(function() {
             opacity: 0
         },
         o: { //o for options
-            duration: 750,
+            duration: 500,
             display: 'none'
         }
     };
@@ -18,7 +18,7 @@ $(window).load(function() {
             opacity: 1
         },
         o: { //o for options
-            duration: 750,
+            duration: 500,
         }
     };
 
